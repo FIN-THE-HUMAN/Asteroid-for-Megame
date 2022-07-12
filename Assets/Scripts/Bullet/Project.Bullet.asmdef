@@ -1,0 +1,20 @@
+{
+    "name": "Project.Bullet",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0a64e81ab8a8bc74b9141617d2957f14",
+        "GUID:ca09da410f1dee54aa4e24edf1fb40e0",
+        "GUID:1713cc4d7128fb14a92d35eceb7b190e",
+        "GUID:09322e80e7f639749af3f55db12074d3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

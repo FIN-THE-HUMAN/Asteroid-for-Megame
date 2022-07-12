@@ -1,0 +1,17 @@
+{
+    "name": "Project.ScoreManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a64e81ab8a8bc74b9141617d2957f14",
+        "GUID:ebb3c6f2c42a2304cb5fb6c6692d47cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

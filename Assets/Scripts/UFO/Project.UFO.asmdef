@@ -1,0 +1,21 @@
+{
+    "name": "Project.UFO",
+    "rootNamespace": "",
+    "references": [
+        "GUID:672bb2463151fe6479b1fc13607353f6",
+        "GUID:1713cc4d7128fb14a92d35eceb7b190e",
+        "GUID:ca09da410f1dee54aa4e24edf1fb40e0",
+        "GUID:38bd21587e136ad479ca8d484864995c",
+        "GUID:0a64e81ab8a8bc74b9141617d2957f14",
+        "GUID:09322e80e7f639749af3f55db12074d3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

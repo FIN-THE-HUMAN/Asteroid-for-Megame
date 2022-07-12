@@ -1,0 +1,23 @@
+{
+    "name": "GameLoad",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a64e81ab8a8bc74b9141617d2957f14",
+        "GUID:38bd21587e136ad479ca8d484864995c",
+        "GUID:672bb2463151fe6479b1fc13607353f6",
+        "GUID:ebb3c6f2c42a2304cb5fb6c6692d47cc",
+        "GUID:8f21b951b25325848b17ad4c8bfc819d",
+        "GUID:45e9c5ea575672c42a63e880f42b87e8",
+        "GUID:31058fa836ddab24d9f9b7339168014e",
+        "GUID:ca09da410f1dee54aa4e24edf1fb40e0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
